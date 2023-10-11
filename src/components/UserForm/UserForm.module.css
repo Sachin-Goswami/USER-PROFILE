@@ -1,0 +1,17 @@
+
+.inputFields{
+    margin: 5px;
+
+}
+.successMsg{
+    color: green;
+    font-weight: 700;
+    margin: 20px 0;
+}
+.errorMsg{
+    color: red;
+    font-weight: 700;
+    margin: 20px 0;
+}
+
+
